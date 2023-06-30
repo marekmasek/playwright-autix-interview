@@ -1,4 +1,4 @@
-# AT AUTIX PLAYWRIGHT INTERVIEW
+# AT AUTIX PLAYWRIGHT JAVA INTERVIEW
 
 This project contains example tests for Autix.eu
 
